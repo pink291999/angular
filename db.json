@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Simpl Dimpl New Bright Colors",
+      "price": "5.95",
+      "image": "https://d1jqecz1iy566e.cloudfront.net/large/fa331.jpg",
+      "description": ""
+    },
+    {
+      "name": "Tobbles Neo",
+      "price": 26.95,
+      "image": "https://d1jqecz1iy566e.cloudfront.net/large/fa070.jpg",
+      "description": "Tobbles Neo - bright and cheerful colors, the physics of motion - and the addition of more tactile clout!\n\nThe unique grippable texture of Tobbles Neo awakens touch. See those gentle, playful curves? They truly enliven tactile experiences.\n\nYoung minds revel in stacking, toppling, and the discovery of endless ingenuity with Tobbles Neo. Six uniquely weighted pieces balance, neatly nest, and incessantly spin beyond your expectations.\n\nGratifying to hold in your hands, weighted to invite investigation, and likely to be swiped from your possession.\n\nLittle hands can’t get enough of the stacking, toppling, spinning, balancing, wobbling, tilting, and wiggling! Another welcome invitation to timeless play.",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
